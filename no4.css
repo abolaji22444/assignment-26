@@ -1,0 +1,87 @@
+body{
+    background-image: url(bbb.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.kin{
+    background: rgb(131, 169, 218);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+}
+.fefe{
+    display: flex;
+    align-items: center
+}
+.wuro{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.ere{
+    display: flex;
+    text-align: center;
+}
+.past{
+   text-decoration: none;
+   color: bisque;
+   margin: 15px;
+   margin-left: 20px;
+   
+   
+}
+.hii{
+    text-decoration: ;
+}
+
+form{
+     background-repeat: no-repeat;
+     background-color: rgba(255, 255, 255, 0.25);
+     backdrop-filter: blur(20px);
+     width: 20%;
+     text-align: justify;
+     color: azure;
+     line-height: 50px;
+     border-radius: 30px;
+     padding: 50px;
+     border-color: beige;
+     border: 2px;
+     border-style: groove;
+     margin: 0px auto;
+    
+
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    padding: 0px 40px;
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid white;
+
+    
+}
+button{
+    border-radius: 20px;
+    width: 250px;
+    border: none;
+    margin: 10px 10px;
+    font-size: 17px;
+}
+a{
+    color: azure;
+    text-decoration: none;
+    font-weight: 900;
+
+
+
+}
+
+

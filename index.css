@@ -1,0 +1,47 @@
+h2{
+    text-align: right;
+    font-weight: 100;
+    font-size: medium;
+    
+    
+
+
+}
+h1{
+    text-align: center;
+    font-size: medium;
+    
+}
+h3{
+    font-weight: 100;
+    font-size: medium;
+}
+.kin{
+    background: rgb(131, 169, 218);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+}
+.ere{
+    display: flex;
+    text-align: center;
+}
+.past{
+   text-decoration: none;
+   color: bisque;
+   margin: 15px;
+   margin-left: 20px;
+   
+}
+.wuro{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.fefe{
+    display: flex;
+    align-items: center
+}

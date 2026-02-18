@@ -1,0 +1,40 @@
+h2{
+    text-align: center;
+    color: rgb(255, 166, 0);
+ }
+ h3{
+    color:  rgb(255, 166, 0);
+ }
+h4{
+    color:  rgb(255, 166, 0);
+}
+.kin{
+    background: rgb(131, 169, 218);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+}
+.fefe{
+    display: flex;
+    align-items: center
+}
+.wuro{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.ere{
+    display: flex;
+    text-align: center;
+}
+.past{
+   text-decoration: none;
+   color: bisque;
+   margin: 15px;
+   margin-left: 20px;
+   
+   
+}

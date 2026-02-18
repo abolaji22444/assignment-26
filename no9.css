@@ -1,0 +1,62 @@
+body{
+    background: greenyellow;
+    
+}
+.kin{
+    background: rgb(131, 169, 218);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+}
+.fefe{
+    display: flex;
+    align-items: center
+}
+.wuro{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.ere{
+    display: flex;
+    text-align: center;
+}
+.past{
+   text-decoration: none;
+   color: bisque;
+   margin: 15px;
+   margin-left: 20px;
+   
+}
+
+.tif{
+    text-align: center;
+    
+}
+.asss{
+    background: greenyellow;
+    padding: 30px ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 20px;
+    height: 400px;
+    padding: 20px auto;
+    
+
+}
+button{
+    border: none;
+    background: yellow;
+    
+    
+}
+
+i{
+    font-size: 70px;
+}

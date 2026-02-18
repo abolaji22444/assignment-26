@@ -1,0 +1,218 @@
+.kin{
+    background: rgb(131, 169, 218);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+}
+.fefe{
+    display: flex;
+    align-items: center
+}
+.wuro{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.ere{
+    display: flex;
+    text-align: center;
+}
+.past{
+   text-decoration: none;
+   color: bisque;
+   margin: 15px;
+   margin-left: 20px;
+   
+   
+}
+.reb{
+    width: 60px;
+    height: 60px;
+}
+.rec{
+    text-align: center;
+    text-decoration: none;
+}
+.ree{
+    text-decoration: none;
+}
+.ref{
+    background: purple;
+    height: 30px;
+}
+.reg{
+    width: 200px;
+    height: 30px;
+    margin-left: 60px;
+    margin-bottom: 100px;
+    background: yellow;
+    font-size: 12px;
+    padding-left: 30px;
+}.reh{
+    font-weight: 100;
+    margin-left: 50px;
+
+}
+.rei{
+    margin-left: 50px;
+    line-height: 10px;
+}
+.rej{
+    color: red;
+}
+.rek{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 50px;
+    
+    
+
+}
+.rel{
+    background: rgb(228, 33, 228);
+    width: 420px;
+    height: 300px;
+    margin: 5px;
+
+
+}
+form{
+    background: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 40px;
+    margin: 6px;
+
+
+}
+.reo{
+    width: 420px;
+    height: 300px;
+    margin: 6px;
+    
+}
+.rep{
+    background: rgb(240, 220, 193);
+    width: 420px;
+    height: 310px;
+    margin: 6px;
+}
+.rem{
+   height: 30px;
+   width: 70px;
+   background: yellow;
+   border-radius: 2px;
+   margin-left: 5px;
+}
+.ren{
+    text-decoration: none;
+}
+.req{
+    background: yellow;
+    padding: 10px;
+    border-radius: 7px solid black;
+    border: none;
+    margin-left: 250px;
+    
+}
+.rer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 20px;
+    border-radius: 4px solid black;
+    height: 50px;
+}
+.res{
+    background: yellow;
+    padding: 16px;
+}
+.ret{
+    width: 40px;
+    height: 30px;
+    margin-left: 24px;
+    margin-top: 10px;
+}
+.reu{
+    width: 40px;
+    height: 30px;
+    margin-left: 16px;
+}
+.rev{
+    width: 40px;
+    height: 30px;
+}
+li{
+    color: blue;
+}
+.rew{
+    text-decoration: none;
+    line-height: 10px;
+    color: blue;
+    
+}
+.rex{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 90px;
+    margin-right: 400px;
+    
+
+}
+.rey{
+    text-decoration: none;
+}
+.rez{
+    background: rgb(200, 211, 211);
+    text-align: center;
+    font-size: 15px;
+    padding: 8px;
+    color: white;
+    margin-top: 10px;
+}
+.rwa{
+    width: 300px;
+
+}
+.dsss{
+    width: 20px;
+    height: 30px;
+    margin: 0px 5px ;
+}
+.dssss{
+    margin-left: 50px;
+}
+
+
+
+
+
+
+@media screen and (max-width: 760px) {
+    .rek{
+        display: flex;
+        flex-direction: column;
+        margin: 6px;
+    }
+    .rer{
+        display: flex;
+        flex-direction: column;
+        margin-top: 450px;
+
+    }
+    .rex{
+        margin-right: 4px;
+        margin-top: 10px;
+        
+    }
+
+}
+
